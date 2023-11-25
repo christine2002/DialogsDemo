@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialogs Activity</string>
+<string name="simple_content_dialog">Simple Content Dialog</string>
+<string name="time_picker_dialog">Time Picker Dialog</string>
+<string name="custom_dialog">Custom Dialog</string>
+<string name="name_hint">Name</string>
+<string name="submit_label">Submit</string>
+<string name="header_label">Enter your name</string>
+</resources>
